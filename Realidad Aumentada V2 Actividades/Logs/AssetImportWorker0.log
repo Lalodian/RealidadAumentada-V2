@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.17f1 (4fc78088f837) revision 5228416'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 8096 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 15739 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Laptop Angel/Documents/Realidad Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
+C:/Users/Puchamon/Documents/Realidada Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53380
-Successfully changed project path to: C:/Users/Laptop Angel/Documents/Realidad Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
-C:/Users/Laptop Angel/Documents/Realidad Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
+54047
+Successfully changed project path to: C:/Users/Puchamon/Documents/Realidada Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
+C:/Users/Puchamon/Documents/Realidada Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,68 +49,65 @@ C:/Users/Laptop Angel/Documents/Realidad Aumentada/RealidadAumentada-V2/Realidad
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14940] Host "[IP] 192.168.0.109 [Port] 0 [Flags] 2 [Guid] 375157532 [EditorId] 375157532 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-EAH0PM5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [300] Host "[IP] 192.168.0.102 [Port] 0 [Flags] 2 [Guid] 2575064033 [EditorId] 2575064033 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AVID77C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [14940] Host "[IP] 192.168.0.109 [Port] 0 [Flags] 2 [Guid] 375157532 [EditorId] 375157532 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-EAH0PM5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [300] Host "[IP] 192.168.0.102 [Port] 0 [Flags] 2 [Guid] 2575064033 [EditorId] 2575064033 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AVID77C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
-Refreshing native plugins compatible for Editor in 80.75 ms, found 9 plugins.
-Preloading 2 native plugins for Editor in 6.92 ms.
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 38.01 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 3.05 ms.
 Initialize engine version: 2022.3.17f1 (4fc78088f837)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Laptop Angel/Documents/Realidad Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Puchamon/Documents/Realidada Aumentada/RealidadAumentada-V2/Realidad Aumentada V2 Actividades/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
-    Vendor:   Intel
-    VRAM:     4048 MB
-    Driver:   20.19.15.4531
-Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1638)
+    Vendor:   ATI
+    VRAM:     7869 MB
+    Driver:   31.0.21905.1001
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.031230 seconds.
-- Loaded All Assemblies, in  1.090 seconds
+Registered in 0.010120 seconds.
+- Loaded All Assemblies, in  0.396 seconds
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.807 seconds
-Domain Reload Profiling: 1892ms
-	BeginReloadAssembly (319ms)
+- Finished resetting the current domain, in  0.282 seconds
+Domain Reload Profiling: 676ms
+	BeginReloadAssembly (127ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (120ms)
-	RebuildNativeTypeToScriptingClass (38ms)
-	initialDomainReloadingComplete (174ms)
-	LoadAllAssembliesAndSetupDomain (432ms)
-		LoadAssemblies (315ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (67ms)
+	LoadAllAssembliesAndSetupDomain (153ms)
+		LoadAssemblies (124ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (426ms)
-			TypeCache.Refresh (422ms)
-				TypeCache.ScanAssembly (388ms)
-			ScanForSourceGeneratedMonoScriptInfo (2ms)
+		AnalyzeDomain (151ms)
+			TypeCache.Refresh (149ms)
+				TypeCache.ScanAssembly (133ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (808ms)
+	FinalizeReload (283ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (645ms)
+		SetupLoadedEditorAssemblies (223ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (32ms)
-			SetLoadedEditorAssemblies (13ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (6ms)
-			ProcessInitializeOnLoadAttributes (440ms)
-			ProcessInitializeOnLoadMethodAttributes (153ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (151ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -119,58 +116,55 @@ Domain Reload Profiling: 1892ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  1.593 seconds
-Refreshing native plugins compatible for Editor in 26.32 ms, found 9 plugins.
+- Loaded All Assemblies, in  0.964 seconds
+Refreshing native plugins compatible for Editor in 19.95 ms, found 9 plugins.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.601 seconds
-Domain Reload Profiling: 3186ms
-	BeginReloadAssembly (281ms)
+- Finished resetting the current domain, in  0.784 seconds
+Domain Reload Profiling: 1738ms
+	BeginReloadAssembly (168ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (10ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (35ms)
-	RebuildCommonClasses (69ms)
-	RebuildNativeTypeToScriptingClass (24ms)
-	initialDomainReloadingComplete (68ms)
-	LoadAllAssembliesAndSetupDomain (1142ms)
-		LoadAssemblies (803ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (704ms)
+		LoadAssemblies (531ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (507ms)
-			TypeCache.Refresh (413ms)
-				TypeCache.ScanAssembly (373ms)
-			ScanForSourceGeneratedMonoScriptInfo (65ms)
-			ResolveRequiredComponents (28ms)
-	FinalizeReload (1602ms)
+		AnalyzeDomain (269ms)
+			TypeCache.Refresh (225ms)
+				TypeCache.ScanAssembly (196ms)
+			ScanForSourceGeneratedMonoScriptInfo (31ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (784ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1245ms)
+		SetupLoadedEditorAssemblies (597ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (16ms)
-			SetLoadedEditorAssemblies (7ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (184ms)
-			ProcessInitializeOnLoadAttributes (850ms)
-			ProcessInitializeOnLoadMethodAttributes (174ms)
-			AfterProcessingInitializeOnLoad (15ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (99ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (16ms)
-Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 183.62 ms, found 9 plugins.
-Preloading 2 native plugins for Editor in 0.71 ms.
-Unloading 6182 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 162 unused Assets / (3.0 MB). Loaded Objects now: 6898.
-Memory consumption went from 246.5 MB to 243.5 MB.
-Total: 31.589000 ms (FindLiveObjects: 1.132400 ms CreateObjectMapping: 1.156700 ms MarkObjects: 26.165900 ms  DeleteObjects: 3.131200 ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 20.23 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.12 ms.
+Unloading 6248 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 157 unused Assets / (2.6 MB). Loaded Objects now: 6970.
+Memory consumption went from 262.1 MB to 259.6 MB.
+Total: 8.888300 ms (FindLiveObjects: 1.361500 ms CreateObjectMapping: 1.402000 ms MarkObjects: 4.882100 ms  DeleteObjects: 1.240100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -187,705 +181,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 482526.428732 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Marcadores/FOX.png
-  artifactKey: Guid(023c1105c8db08f47b555365e701e736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Marcadores/FOX.png using Guid(023c1105c8db08f47b555365e701e736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bd356e8491cb068f33c6b2835fed05') in 0.227412 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 30.500131 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Desk.prefab
-  artifactKey: Guid(5b2ba009d5988ec4581e5d0f1d0fdd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Desk.prefab using Guid(5b2ba009d5988ec4581e5d0f1d0fdd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd00b8038ca4401d983cc823f9e21ab4') in 0.214627 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Short Nightstand.prefab
-  artifactKey: Guid(7186f57ad619a9a4784cb9b0b4d5c96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Short Nightstand.prefab using Guid(7186f57ad619a9a4784cb9b0b4d5c96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c0f06529b86ece89860d5d61fb3793') in 0.032573 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
-========================================================================
-Received Import Request.
-  Time since last request: 0.000679 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/LightingData.asset
-  artifactKey: Guid(9c93c8f7484872948a6f4aec28d83454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/LightingData.asset using Guid(9c93c8f7484872948a6f4aec28d83454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6932aa178a1a90a5548927726e40a7b6') in 0.004888 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Table.prefab
-  artifactKey: Guid(35134bac282b7de428521f70cf4d09e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Table.prefab using Guid(35134bac282b7de428521f70cf4d09e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae553c3fb8759d2524c31797e761b927') in 0.037199 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 14
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Global Volume Profile - Copy.asset
-  artifactKey: Guid(cdbf21ef347476340bc98c392af2aa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Global Volume Profile - Copy.asset using Guid(cdbf21ef347476340bc98c392af2aa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c914294a9d202a663d190d4f6e72e622') in 0.015035 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/siverpong Profile - Copy.asset
-  artifactKey: Guid(55bb6e263fdf77b4f9fa43800a477866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/siverpong Profile - Copy.asset using Guid(55bb6e263fdf77b4f9fa43800a477866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079f3e438cf0b4a8da1a4e5b6fb78a7c') in 0.004708 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Double Bed.prefab
-  artifactKey: Guid(ce8e78f5bf81eb044b1dfbdbf25c9480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Double Bed.prefab using Guid(ce8e78f5bf81eb044b1dfbdbf25c9480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8c5ce957794bc49751ec04d052b00e') in 0.037083 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 35
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Global Volume Profile.asset
-  artifactKey: Guid(7593408c67e504940ac81ce01531d06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Global Volume Profile.asset using Guid(7593408c67e504940ac81ce01531d06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd29e78359e98855351a476e7d2017a') in 0.003815 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/siverpong Profile.asset
-  artifactKey: Guid(d476e39ec14af2a4380a67c24a1a3eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/siverpong Profile.asset using Guid(d476e39ec14af2a4380a67c24a1a3eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b995121857ae0ac9b83d0f01eb49bf') in 0.002308 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Nightstand.prefab
-  artifactKey: Guid(26d0351b3b8b4a042904d0d1985844e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Nightstand.prefab using Guid(26d0351b3b8b4a042904d0d1985844e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d213f6491edd5317106aeb61f06efc6') in 0.039768 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Gaming Screen.prefab
-  artifactKey: Guid(a29868e67593a3343ab14253c4a04d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/Gaming Screen.prefab using Guid(a29868e67593a3343ab14253c4a04d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6016db22fc0087220edd4028205a2aa') in 0.058389 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 25
-========================================================================
-Received Import Request.
-  Time since last request: 4.844954 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/LightingData.asset
-  artifactKey: Guid(ef6d469b62be32a4680c49117da51cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/LightingData.asset using Guid(ef6d469b62be32a4680c49117da51cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a2dfb58648882cb39ca757df6eb032') in 0.003243 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/Lightmap-0_comp_dir.png
-  artifactKey: Guid(deb089c8507acc6439b2eee23f1e19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/Lightmap-0_comp_dir.png using Guid(deb089c8507acc6439b2eee23f1e19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfe9377b3f5f229a84dc7e8cb3a3e04') in 0.048377 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/Lightmap-0_comp_light.exr
-  artifactKey: Guid(b6dbab0ca52b3a6408cd429a728808cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Diograma/AJ2Actividad2/Lightmap-0_comp_light.exr using Guid(b6dbab0ca52b3a6408cd429a728808cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb511285bad98c8736957e1b14c262a6') in 0.069432 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 2.602102 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Cylinder Lamp.prefab
-  artifactKey: Guid(88910f95c99b59841954e121c675dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Cylinder Lamp.prefab using Guid(88910f95c99b59841954e121c675dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbd29bf55ab0bab98fea34961d58893') in 0.040264 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 29
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Vaselamp.prefab
-  artifactKey: Guid(d2167770d1a2d3044b3f35fab59dd37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Vaselamp.prefab using Guid(d2167770d1a2d3044b3f35fab59dd37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e817f34372711db31c024a2846952b24') in 0.036725 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 28
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Piso.mat
-  artifactKey: Guid(15e4d88a716f2754b8758acc9c7bb16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Piso.mat using Guid(15e4d88a716f2754b8758acc9c7bb16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a536cc2ee50c398fa9c5b4438bff96') in 0.089565 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000087 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/NEON.mat
-  artifactKey: Guid(79d778b52cb10bc418c7badc5a5c9c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/NEON.mat using Guid(79d778b52cb10bc418c7badc5a5c9c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539c5331837fb4a9ba8b57f8a142881a') in 0.018333 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Wall.mat
-  artifactKey: Guid(cd1384848174c7640821fc723e56efcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Wall.mat using Guid(cd1384848174c7640821fc723e56efcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa0083842b4c692c34727df2b796d53') in 0.023523 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Pantalla.mat
-  artifactKey: Guid(70872a13d43aece439c14cb56e6f5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Pantalla.mat using Guid(70872a13d43aece439c14cb56e6f5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb170fc66b249c0f6665ff933428a4c') in 0.017583 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Foco.mat
-  artifactKey: Guid(7dee3dd8e37fa14419dd5866d4121e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Material/Foco.mat using Guid(7dee3dd8e37fa14419dd5866d4121e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6426657beec7e7e62c1d3d9895e046d0') in 0.035801 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Prepare
-Switching render pipeline 00000000000000000000000000000000 -> 7b7fd9122c28c4d15b667c7040e3b3fd
-Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Refreshing native plugins compatible for Editor in 196.19 ms, found 9 plugins.
-Preloading 2 native plugins for Editor in 119.06 ms.
-Unloading 86 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 30 unused Assets / (3.0 MB). Loaded Objects now: 7004.
-Memory consumption went from 128.4 MB to 125.4 MB.
-Total: 18.198400 ms (FindLiveObjects: 1.124800 ms CreateObjectMapping: 1.239900 ms MarkObjects: 14.130700 ms  DeleteObjects: 1.700500 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:srp/default-shader: 886a89792de1e9d3697bddabf731a298 -> ff2869b2ce7c09b51d8bc2926aab598d
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 0f5f72dab822025b0759b197a3119d15 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 33.462510 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture
-  artifactKey: Guid(8cea5d49b8d6fc94cbdf644baee1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture using Guid(8cea5d49b8d6fc94cbdf644baee1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc3ba96f55b22156d1c50301e8fa65c') in 0.018052 seconds
+  Time since last request: 735223.638116 seconds.
+  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Esena/Diograma.unity
+  artifactKey: Guid(3de554a9186db1044b8a963d38287f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Esena/Diograma.unity using Guid(3de554a9186db1044b8a963d38287f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d35df35ce75378c7f98830903c94777') in 0.002604 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 1.772895 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Textures
-  artifactKey: Guid(c3df98cba2adbaa4b9e18aac5eec7155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Textures using Guid(c3df98cba2adbaa4b9e18aac5eec7155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff67c7cea506d267de00376f4900aa7a') in 0.002148 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.699794 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models
-  artifactKey: Guid(f16ed09c01e01304abde799227876625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models using Guid(f16ed09c01e01304abde799227876625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f737ccab724a6a761f57dcb4821e31bb') in 0.003555 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.091562 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Armchair.fbx
-  artifactKey: Guid(8ec0b51daaffc83479e7c8ea5ad3ffba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Armchair.fbx using Guid(8ec0b51daaffc83479e7c8ea5ad3ffba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd032607f19237ece429a2c259ed0787') in 3.293050 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 11
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Old Keyboard.fbx
-  artifactKey: Guid(2eeece6b09550364fb45b8217b6ab93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Old Keyboard.fbx using Guid(2eeece6b09550364fb45b8217b6ab93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8a294ded2bd566cfc735f744447aa2') in 0.067382 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Cylinder Lamp.fbx
-  artifactKey: Guid(463d37cb9531858459b89a23f7121366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Cylinder Lamp.fbx using Guid(463d37cb9531858459b89a23f7121366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa29bea4df9f7d5511b2a2b7928974b') in 0.064021 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Couch.fbx
-  artifactKey: Guid(c63715b0b8bef004a95d82d55cc527c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Couch.fbx using Guid(c63715b0b8bef004a95d82d55cc527c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb7fbb678c5a8cfbacede18af349d57') in 0.092214 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Double Bed.fbx
-  artifactKey: Guid(e81c5345af796424b8bed30fdfaa6b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Double Bed.fbx using Guid(e81c5345af796424b8bed30fdfaa6b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5815c11de419a6a5c0856be659803bfc') in 0.136092 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 20
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Nightstand.fbx
-  artifactKey: Guid(5bc0e5fdfe70ab8409a03ded63e6af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Nightstand.fbx using Guid(5bc0e5fdfe70ab8409a03ded63e6af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9cadff67c850b03071ad5776bef4110') in 0.061603 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Green Plant.fbx
-  artifactKey: Guid(f150b4c37a4c40047a9633b96429c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Green Plant.fbx using Guid(f150b4c37a4c40047a9633b96429c219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4fc001a81d46ac33a24fcf3a1bcf60') in 0.081455 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Desk.fbx
-  artifactKey: Guid(f0d009a5b203f1f4eb0a2f1b708cdfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Desk.fbx using Guid(f0d009a5b203f1f4eb0a2f1b708cdfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b6fba3da63f74eded1f6a1fbfcdf9e') in 0.064430 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Prefabs
-  artifactKey: Guid(81f487d9b9661fa4ca3d194b76a4618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Prefabs using Guid(81f487d9b9661fa4ca3d194b76a4618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45993cb1fd019de0f935d1691728a871') in 0.001225 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Keyboard.fbx
-  artifactKey: Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Keyboard.fbx using Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed71ee5ef970db3d8aaa621c42700cac') in 0.070214 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Black Book.fbx
-  artifactKey: Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Black Book.fbx using Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b40ca256635914c33b41308bf8be15') in 0.070302 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Larger Case.fbx
-  artifactKey: Guid(663a9601d0ae2274a9c57ebba1b3cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Larger Case.fbx using Guid(663a9601d0ae2274a9c57ebba1b3cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a776dbc19493faa49a7b416d5a80bb') in 0.061744 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Screen.fbx
-  artifactKey: Guid(61d2840a32922d642b60bd582e7d4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Screen.fbx using Guid(61d2840a32922d642b60bd582e7d4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668bd2f80355764c90da440ee2c85ab0') in 0.069769 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Desk.fbx
-  artifactKey: Guid(c8dce477da05e754e8e912991abfd95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Desk.fbx using Guid(c8dce477da05e754e8e912991abfd95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8309d17ef5739564faf3d159362a5238') in 0.063675 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Chair.fbx
-  artifactKey: Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Gaming Chair.fbx using Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb4d21b99318dffbfc4c13f5176cd52') in 0.074617 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Green Book.fbx
-  artifactKey: Guid(c15b7d73296b9054c8e17343a5c273c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Green Book.fbx using Guid(c15b7d73296b9054c8e17343a5c273c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4fb2946bd6efffa96009303b754c181') in 0.066234 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Bookshelf.fbx
-  artifactKey: Guid(492df7511a68f19488494c654356defd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/L-Shaped Bookshelf.fbx using Guid(492df7511a68f19488494c654356defd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afde99d1b1690e2fc7a54ced10b05774') in 0.071276 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Dark Case.fbx
-  artifactKey: Guid(627c4ae26f127244e95c3bd0d160c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Dark Case.fbx using Guid(627c4ae26f127244e95c3bd0d160c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34105471e0ba2bfd9ca04c494fa74df') in 0.086344 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000068 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Couch.fbx
-  artifactKey: Guid(09667bf18d5e2f5489accb5ca7e3b7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Couch.fbx using Guid(09667bf18d5e2f5489accb5ca7e3b7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55813897f7ed17b95df0fd284abeb027') in 0.073357 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000096 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Laptop.fbx
-  artifactKey: Guid(d8ea38793a6bd104aa20d7dc912caba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Laptop.fbx using Guid(d8ea38793a6bd104aa20d7dc912caba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4531c59c157a2559abdfe8faad355d3') in 0.068682 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Big Mouse.fbx
-  artifactKey: Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Big Mouse.fbx using Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d4f534238059815f227dca28f38745') in 0.065711 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Vase.fbx
-  artifactKey: Guid(824c8db400013dd4bb682dbbe289f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Vase.fbx using Guid(824c8db400013dd4bb682dbbe289f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c55886020c3962680479cd35518e3f') in 0.061474 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Old Screen.fbx
-  artifactKey: Guid(e4cc1467e2788fa4cac37f127450157c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Old Screen.fbx using Guid(e4cc1467e2788fa4cac37f127450157c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4078e2bb55b26e9449dc025052dfc9e5') in 0.056911 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Flower.fbx
-  artifactKey: Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Flower.fbx using Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fdb9e4235cd52918328ab5b786f9c5') in 0.065597 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Book.fbx
-  artifactKey: Guid(bc09309e8485efb4f988398655898bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Blue Book.fbx using Guid(bc09309e8485efb4f988398655898bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fff1fb482f4f0a7f530f63ee86aff2') in 0.100462 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Lamp.fbx
-  artifactKey: Guid(ec528ebcec49801448f0e686818cdeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Lamp.fbx using Guid(ec528ebcec49801448f0e686818cdeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ff70a80a8929b67b43cd16b145ac35') in 0.089996 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 3.982245 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Textures/ty-shining-gems-24-32x.png
-  artifactKey: Guid(d27af448751b9d3468d8fb5e928470fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Textures/ty-shining-gems-24-32x.png using Guid(d27af448751b9d3468d8fb5e928470fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f2c55c75147dd4b2120d8fa8182b91') in 0.047006 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 1.704561 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos
-  artifactKey: Guid(520317c169969d042b7a6a646d71224b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos using Guid(520317c169969d042b7a6a646d71224b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177cc6e5d407eb3ef57110800dc315b6') in 0.001109 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 1.224480 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets
-  artifactKey: Guid(5cc762eeb7cbb6e44b6f8fd69581c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets using Guid(5cc762eeb7cbb6e44b6f8fd69581c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888e56083ef427e1934092af905e6e65') in 0.001372 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.087891 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/LightingData.asset
-  artifactKey: Guid(9479bab2e6d2afb419b8615af4210ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/LightingData.asset using Guid(9479bab2e6d2afb419b8615af4210ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad96234ada3d6b76386049af7830ae2') in 0.008096 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_light.exr
-  artifactKey: Guid(baa665f557c0ccc458b43aa9d927b3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_light.exr using Guid(baa665f557c0ccc458b43aa9d927b3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ea8a88899c2c82653d75a3ba0281d1') in 0.082735 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_dir.png
-  artifactKey: Guid(aa03203c1ce826942b270de8179b0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_dir.png using Guid(aa03203c1ce826942b270de8179b0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7236a32e00726c0cf77ae83a6e208f12') in 0.056008 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 5.169994 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Pink Vase.fbx
-  artifactKey: Guid(c6559dc7184f6844ba0fde53236e97e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Pink Vase.fbx using Guid(c6559dc7184f6844ba0fde53236e97e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1262fda320d09621d92268f7711538fa') in 0.068768 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Small Mouse.fbx
-  artifactKey: Guid(d74a36366eeaa9345a1658de0de381af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Small Mouse.fbx using Guid(d74a36366eeaa9345a1658de0de381af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ef0e7f135711cdd0a30a6b829dadb3') in 0.058872 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Triple Cactus.fbx
-  artifactKey: Guid(3ea3d2a5bf18aa84284124fe246a65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Triple Cactus.fbx using Guid(3ea3d2a5bf18aa84284124fe246a65b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857d1a0971f79d6ab9622ccc10493e07') in 0.061413 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Yellow Book.fbx
-  artifactKey: Guid(bb35e30754ded1b458a77799176309ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Yellow Book.fbx using Guid(bb35e30754ded1b458a77799176309ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2389b1a44748ae434fc639cb5bbebf9b') in 0.069946 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Twin Wardrobe.fbx
-  artifactKey: Guid(2e478b462dd4cdd47ac83b5a69d74ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Twin Wardrobe.fbx using Guid(2e478b462dd4cdd47ac83b5a69d74ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b0883b1cdafc181c49481cd89df3dd') in 0.073515 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Thin Chair.fbx
-  artifactKey: Guid(78ade105789c1114f91e52abcdd9f12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Thin Chair.fbx using Guid(78ade105789c1114f91e52abcdd9f12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4182fe2dbdf780b01aef7d6ef52272') in 0.060420 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000061 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Bookshelf.fbx
-  artifactKey: Guid(de28c4b7898423c439068dd7f02263cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Bookshelf.fbx using Guid(de28c4b7898423c439068dd7f02263cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901e3450a1f96cbb3db5a9e7720a5777') in 0.062885 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Chair.fbx
-  artifactKey: Guid(ac9176d8a9cecdc44a0e387e329ee31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Chair.fbx using Guid(ac9176d8a9cecdc44a0e387e329ee31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08ee85d01467b89431d5c84670b98b4') in 0.063369 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Rectangle Table.fbx
-  artifactKey: Guid(36df2876932ca6b448b29d0333cec2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Rectangle Table.fbx using Guid(36df2876932ca6b448b29d0333cec2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6ebfe7a05c9e12bfa52af0184e6dfd') in 0.087441 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Wall Bookshelf Small.fbx
-  artifactKey: Guid(4ac0c85b05ac2a649a6ac847d089c80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Wall Bookshelf Small.fbx using Guid(4ac0c85b05ac2a649a6ac847d089c80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961285031e873d0bfcbf7b9968ecb283') in 0.063990 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000064 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Wall Bookshelf Large.fbx
-  artifactKey: Guid(64dccf619abaee04ab1842c4ec5e5f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Wall Bookshelf Large.fbx using Guid(64dccf619abaee04ab1842c4ec5e5f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a429b61dbaf1affb5aece08d0590a4') in 0.075341 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Seedling.fbx
-  artifactKey: Guid(b2b7476788d729b49b2e7f709f686d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Seedling.fbx using Guid(b2b7476788d729b49b2e7f709f686d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7fe2a200823469107af43f357898ca') in 0.066567 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Vaselamp.fbx
-  artifactKey: Guid(2c4eec42cfc85c749be391e82aceb875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Vaselamp.fbx using Guid(2c4eec42cfc85c749be391e82aceb875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0253c510b7818c22fc78d03de83a9240') in 0.064388 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Purple Book.fbx
-  artifactKey: Guid(e9bffd5ceb3415b40b0b7dcae0ae6a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Purple Book.fbx using Guid(e9bffd5ceb3415b40b0b7dcae0ae6a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0255aa3a79d55b36a0fd85ebc31a5019') in 0.065994 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000447 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Yellow Vase.fbx
-  artifactKey: Guid(a3c8436bd2348474a824d0baa0786aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Yellow Vase.fbx using Guid(a3c8436bd2348474a824d0baa0786aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ed2d8e451cc112d38f86258a2751ef') in 0.064610 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Round Table.fbx
-  artifactKey: Guid(d05534f74c8b1aa48b2446d3f0d60245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Round Table.fbx using Guid(d05534f74c8b1aa48b2446d3f0d60245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cd49b926f8e1ecb1120db5b9666cb8') in 0.055591 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Table.fbx
-  artifactKey: Guid(ffda72c0b85231745aa1f177fd1b4004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Table.fbx using Guid(ffda72c0b85231745aa1f177fd1b4004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0bf331e72d3e3d72e0954698927ca6f') in 0.060179 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Single Bed.fbx
-  artifactKey: Guid(88bfcb4cfbf572c4090d7535fdd4fed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Single Bed.fbx using Guid(88bfcb4cfbf572c4090d7535fdd4fed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18989dc34364392a967b00555d8df375') in 0.096901 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Short Nightstand.fbx
-  artifactKey: Guid(0e67f4f822790f44d8fec74f48e045af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Short Nightstand.fbx using Guid(0e67f4f822790f44d8fec74f48e045af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b276e9e4d11de0f71e244e1edcd5adf') in 0.068943 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Wardrobe.fbx
-  artifactKey: Guid(67f26b897a8659d4882a7294baadc9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Standart Wardrobe.fbx using Guid(67f26b897a8659d4882a7294baadc9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501cde9ac2e21228898e13a7de603364') in 0.070393 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Triple Flower.fbx
-  artifactKey: Guid(635b559c754cc8341b32a152e4059ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Angel Jimenez Actividades y Tareas/Tareas/Modelos/Low Poly Furniture/Models/Triple Flower.fbx using Guid(635b559c754cc8341b32a152e4059ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ea67f43846999b994e0ffe734e3857') in 0.073352 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Prepare
-Switching render pipeline 00000000000000000000000000000000 -> 7b7fd9122c28c4d15b667c7040e3b3fd
-Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Refreshing native plugins compatible for Editor in 528.31 ms, found 9 plugins.
-Preloading 2 native plugins for Editor in 0.26 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 26 unused Assets / (2.5 MB). Loaded Objects now: 7114.
-Memory consumption went from 129.1 MB to 126.5 MB.
-Total: 18.482100 ms (FindLiveObjects: 1.052000 ms CreateObjectMapping: 1.210800 ms MarkObjects: 13.624900 ms  DeleteObjects: 2.591900 ms)
-
-
-=================================================================
-	Native Crash Reporting
-=================================================================
-Got a UNKNOWN while executing native code. This usually indicates
-a fatal error in the mono runtime or one of the native libraries 
-used by your application.
-=================================================================
-
-=================================================================
-	Managed Stacktrace:
-=================================================================
-=================================================================
-Received signal SIGSEGV
-Obtained 27 stack frames
-0x00007ff6bdbb9343 (Unity) keywords::KeywordRemap::Init
-0x00007ff6bdbbd57a (Unity) ShaderLab::IntShader::CreateKeywordRemap
-0x00007ff6bdbbff35 (Unity) ShaderLab::IntShader::ResolveFallback
-0x00007ff6bdb8eebf (Unity) ShaderFromSerializedShaderMainThread
-0x00007ff6bf5f26e0 (Unity) Shader::CreateFromParsedForm
-0x00007ff6bf5f15c0 (Unity) Shader::AwakeFromLoad
-0x00007ff6bdec37ed (Unity) AwakeFromLoadQueue::InvokePersistentManagerAwake
-0x00007ff6bdec47c1 (Unity) AwakeFromLoadQueue::PersistentManagerSingleQueueAwakeFromLoad
-0x00007ff6bdec4430 (Unity) AwakeFromLoadQueue::PersistentManagerAwakeFromLoad_NoChecks
-0x00007ff6bde9688f (Unity) PersistentManager::IntegrateAllThreadedObjects
-0x00007ff6bde971b0 (Unity) PersistentManager::LoadAndIntegrateAllPreallocatedObjects
-0x00007ff6bde9809b (Unity) PersistentManager::LoadObjects
-0x00007ff6bf2aa910 (Unity) ReloadAssetIfLoaded
-0x00007ff6bf272706 (Unity) ReloadUpdatedAssets
-0x00007ff6bf266e3a (Unity) <lambda_b37b41f03089e3cb3f55061bbc93253d>::operator()
-0x00007ff6bf2a10f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
-0x00007ff6bf28d09e (Unity) asio::detail::win_iocp_io_context::do_one
-0x00007ff6bf28ed04 (Unity) asio::detail::win_iocp_io_context::run
-0x00007ff6bf29f49c (Unity) IOService::Run
-0x00007ff6bf272fff (Unity) AssetImportWorkerClient::Run
-0x00007ff6bf23df37 (Unity) RunAssetImportWorkerClientV2
-0x00007ff6bf23dfbb (Unity) RunAssetImporterV2
-0x00007ff6bea4200d (Unity) Application::InitializeProject
-0x00007ff6beecaf35 (Unity) WinMain
-0x00007ff6c02aa7be (Unity) __scrt_common_main_seh
-0x00007ff937417344 (KERNEL32) BaseThreadInitThunk
-0x00007ff9386226b1 (ntdll) RtlUserThreadStart
-
